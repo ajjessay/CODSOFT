@@ -1,0 +1,5 @@
+# Ignore all compiled Java bytecode binaries
+*.class
+
+# Ignore temporary system files or text crashes
+*.log
